@@ -3,7 +3,7 @@ I'm Luke, an IT Engeneering student<br>
 I'm currently working (and learning) with ☕Java and 🐍Python<br>
 [Ubuntu](https://ubuntu.com/), [Visual Studio Code](https://code.visualstudio.com/) and [IntelliJ Idea](https://www.jetbrains.com/idea/) FTW
 
- My contacts:<br>
+ ### My contacts:
  - Email: Chiarchiaoooooo@gmail.com
  - Discord Server: https://dsc.gg/cliffycommunity
  - Discord tag: ~Luke#7123<br>
