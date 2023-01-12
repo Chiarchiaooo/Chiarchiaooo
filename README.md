@@ -7,11 +7,11 @@ I'm currently working (and learning) with ☕Java and 🐍Python<br>
  - Email: mail@chiarchiaooo.it
  - Discord Server: https://dsc.gg/cliffycommunity
  - Discord tag: ~Luke#7123<br>
- - Telegram: @Ciarcia<br>
+ - Telegram: [@Ciarcia](https://www.tg.me/Chiarchiaooo)<br>
 
 <br>
 
-[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiarchiaooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Luke's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chiarchiaooo&&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 <!--
 **Chiarchiaooo/Chiarchiaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
