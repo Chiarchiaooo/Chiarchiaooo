@@ -11,7 +11,7 @@ I'm currently working (and learning) with ☕Java and 🐍Python<br>
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiarchiaooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiarchiaooo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Chiarchiaooo/Chiarchiaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
