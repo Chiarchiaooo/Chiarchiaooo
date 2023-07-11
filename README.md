@@ -6,7 +6,7 @@ I'm currently working (and learning) with ☕Java and 🐍Python<br>
  ### My contacts:
  - Email: mail@chiarchiaooo.it
  - Discord Server: https://dsc.gg/cliffycommunity
- - Discord tag: ~Luke#7123<br>
+ - Discord: chiarchiaooo<br>
  - Telegram: [@Ciarcia](https://www.telegram.me/Ciarcia)<br>
 
 <br>
