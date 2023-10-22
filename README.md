@@ -9,8 +9,6 @@ I'm currently working (and learning) with ☕Java and 🐍Python<br>
  - Telegram: [@Ciarcia](https://www.telegram.me/Ciarcia)<br>
 
 <br>
-
-[![Luke's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chiarchiaooo&&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 <!--
 **Chiarchiaooo/Chiarchiaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
