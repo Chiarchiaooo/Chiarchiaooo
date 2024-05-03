@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Luke, a CS Engeneering student<br>
+I'm Luke, a CS Engineering student<br>
 I'm currently working (and learning) with ☕Java and 🐍Python<br>
 [Ubuntu](https://ubuntu.com/), [Visual Studio Code](https://code.visualstudio.com/) and [IntelliJ Idea](https://www.jetbrains.com/idea/) FTW
 
