@@ -39,7 +39,7 @@ Here are some of my notable public project(s):
 
 ## My contacts
 
-- Email: dev@chiarchiaooo.xyz
+- Email: contact@chiarchiaooo.dev
 - Discord: chiarchiaooo<br>
 - Telegram: [@Ciarcia](https://www.telegram.me/Ciarcia)<br>
 
