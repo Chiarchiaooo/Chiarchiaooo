@@ -10,7 +10,7 @@ Another particular field of interest for me is: Social Engineering, since even b
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,cpp,arduino,git,github,html,css,discord,sqlite,mysql,py,docker,regex,obsidian,md,raspberrypi,linux,arch,ubuntu)]()
+[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,cpp,arduino,git,github,html,css,discord,sqlite,mysql,py,docker,regex,obsidian,md,raspberrypi,linux,arch,ubuntu)](https://www.youtube.com/watch?v=yKQ_sQKBASM)
 
 
 
