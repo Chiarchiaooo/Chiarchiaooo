@@ -18,9 +18,9 @@ Another particular field of interest for me is: Social Engineering, since even b
 
 Here's a quick overview of my GitHub profile:  
 
-[![Error: Failed loading GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiarchiaooo&show_icons=true&theme=radical)]()
+[![Error: Failed loading GitHub Stats](https://ghstats.chiarchiaooo.dev/api?username=Chiarchiaooo&show_icons=true&theme=radical)]()
 
-[![Error: Failed loading Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiarchiaooo&theme=radical)]()
+[![Error: Failed loading Top Langs](https://ghstats.chiarchiaooo.dev/api/top-langs/?username=chiarchiaooo&theme=radical)]()
 
 Click here for the [Wakatime stats](wakatime_stats.md)
 
